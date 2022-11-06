@@ -81,9 +81,9 @@ Models used: https://drive.google.com/drive/folders/1OrNQcOfbgoH6PyEiPH2G0DYv1iK
 2. We created a holistic and robust solution with an user friendly interface.
 3. We could complete 60% of our idea in just 24 hours.
 
-## Figma Link-https://www.figma.com/file/Wud00rH3Mo8v3RxdlTQf6i/Untitled?node-id=0%3A1
-## Presentation Link-https://www.canva.com/design/DAFQ0krzYHA/d1WRUaXnzSDOJcVBktwdrg/view?utm_content=DAFQ0krzYHA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-## Website URL-https://agritech-codecampers.netlify.app/
+### Figma Link-https://www.figma.com/file/Wud00rH3Mo8v3RxdlTQf6i/Untitled?node-id=0%3A1
+### Presentation Link-https://www.canva.com/design/DAFQ0krzYHA/d1WRUaXnzSDOJcVBktwdrg/view?utm_content=DAFQ0krzYHA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+### Website URL-https://agritech-codecampers.netlify.app/
 =======
 # Agritechs
 A new vision for smart Farming
